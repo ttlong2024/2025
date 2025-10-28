@@ -1,5 +1,5 @@
 ﻿#EXTM3U url-tvg="https://lichphatsong.site/schedule/epg.xml"
-#EXTM3U url-tvg="https://vnepg.site/epg.xml" billed-msg="OKIE"
+#EXTM3U url-tvg="https://vnepg.site/epg.xml"
 
 #EXTINF:-1 tvg-id="vtv1hd" group-title="💕[VTV]" tvg-logo="https://i.imgur.com/nfkmvAY.png",VTV1
 https://live.fptplay53.net/fnxch2/vtv1hd_abr.smil/chunklist_b4200000.m3u8
@@ -140,3 +140,4 @@ https://toiyeuvietnam.dpdns.org/CoBan/vtvcab-21-cartoon-kids-hd/TuyetDoiKhongKin
 https://toiyeuvietnam.dpdns.org/CoBan/vtvcab-22-life-tv-hd/TuyetDoiKhongKinhDoanh.m3u8
 #EXTINF:-1 tvg-id="ongolf" group-title="💚[VTVCAB]" tvg-logo="https://i.imgur.com/bvH3epY.png",ON GOLF
 https://toiyeuvietnam.dpdns.org/CoBan/vtvcab-23-golf-channel/TuyetDoiKhongKinhDoanh.m3u8
+
