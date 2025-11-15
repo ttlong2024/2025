@@ -64,6 +64,8 @@ https://live.fptplay53.net/fnxhd2/quocphongvnhd_vhls.smil/chunklist_b5000000.m3u
 https://live.fptplay53.net/epzhd2/film360_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 tvg-id="sctv2hd" group-title="💚[THIẾT YẾU]" tvg-logo="https://i.imgur.com/sURj0j4.png",SCTV2
 https://freem3u.xyz/api/live/play.m3u8?tid=sctv2
+#EXTINF:-1 tvg-id="sctv2hd" group-title="💚[THIẾT YẾU]" tvg-logo="https://i.imgur.com/sURj0j4.png",SCTV2-DP
+https://toiyeuvietnam.dpdns.org/CoBan/sctv2-today-tv/TuyetDoiKhongKinhDoanh.m3u8
 
 #EXTINF:-1 tvg-id="hanoi1" group-title="📺[ĐỊA PHƯƠNG]" tvg-logo="https://i.imgur.com/mwCTDMj.png",TH HÀ NỘI 1
 https://live.fptplay53.net/fnxhd2/hanoitv1_vhls.smil/chunklist_b5000000.m3u8
@@ -89,6 +91,9 @@ https://live.fptplay53.net/epzch2/vinhlong3_abr.smil/chunklist_b4200000.m3u8
 https://live.fptplay53.net/epzhd2/vinhlong4hd_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 tvg-id="vinhlong5hd" group-title="📺[ĐỊA PHƯƠNG]" tvg-logo="https://vnepg.site/logos/175.png",TH VĨNH LONG 5
 https://freem3u.xyz/api/live/play.m3u8?vid=91
+#EXTINF:-1 tvg-id="vinhlong5hd" group-title="📺[ĐỊA PHƯƠNG]" tvg-logo="https://vnepg.site/logos/175.png",TH VĨNH LONG 5-DP
+https://toiyeuvietnam.dpdns.org/CoBan/tra-vinh/TuyetDoiKhongKinhDoanh.m3u8
+
 #EXTINF:-1 tvg-id="cantho1" group-title="📺[ĐỊA PHƯƠNG]" tvg-logo="https://vnepg.site/logos/86.png",TH CẦN THƠ 1
 https://live.fptplay53.net/epzsd1/cantho_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-id="cantho2" group-title="📺[ĐỊA PHƯƠNG]" tvg-logo="https://vnepg.site/logos/87.png",TH CẦN THƠ 2
@@ -130,6 +135,7 @@ https://cloud.sgchill.io.vn/tv/getlink/source/coban1/index.m3u8?id=186&token=202
 https://cloud.sgchill.io.vn/tv/getlink/source/coban1/index.m3u8?id=177&token=2025
 #EXTINF:-1 tvg-id="onvfamily" group-title="💚[VTVCAB]" tvg-logo="https://i.imgur.com/R82M53x.png",ON VFAMILY
 https://cloud.sgchill.io.vn/tv/getlink/source/coban1/index.m3u8?id=187&token=2025
+
 
 
 
