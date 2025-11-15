@@ -9,6 +9,8 @@ https://live.fptplay53.net/fnxch2/vtv2hd_abr.smil/chunklist_b4200000.m3u8
 https://live.fptplay53.net/fnxch2/vtv3hd_abr.smil/chunklist_b4200000.m3u8
 #EXTINF:-1 tvg-id="vtv4hd" group-title="💕[VTV]" tvg-logo="https://i.imgur.com/9zVTtsA.png",VTV4
 https://live.fptplay53.net/fnxch2/vtv4hd_abr.smil/chunklist_b4200000.m3u8
+#EXTINF:-1 tvg-id="vietnamtoday" group-title="💕[VTV]" tvg-logo="https://vnepg.site/logos/176.png",VIETNAM TODAY
+https://live.fptplay53.net/fnxhd1/vntoday_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 tvg-id="vtv5hd" group-title="💕[VTV]" tvg-logo="https://i.imgur.com/7qPKNFU.png",VTV5
 https://live.fptplay53.net/epzch2/vtv5hd_abr.smil/chunklist_b4200000.m3u8
 #EXTINF:-1 tvg-id="vtv5hdtnb" group-title="💕[VTV]" tvg-logo="https://i.imgur.com/UVNKSnh.png",VTV5-TNB
@@ -63,6 +65,20 @@ https://live.fptplay53.net/epzhd2/film360_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 tvg-id="sctv2hd" group-title="💚[THIẾT YẾU]" tvg-logo="https://i.imgur.com/sURj0j4.png",SCTV2
 https://freem3u.xyz/api/live/play.m3u8?tid=sctv2
 
+#EXTINF:-1 tvg-id="hanoi1" group-title="📺[ĐỊA PHƯƠNG]" tvg-logo="https://i.imgur.com/mwCTDMj.png",TH HÀ NỘI 1
+https://live.fptplay53.net/fnxhd2/hanoitv1_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF:-1 tvg-id="hanoi2" group-title="📺[ĐỊA PHƯƠNG]" tvg-logo="https://i.imgur.com/HyiwlZV.png",TH HÀ NỘI 2
+https://live.fptplay53.net/fnxch2/hntv2_abr.smil/chunklist_b6000000.m3u8
+#EXTINF:-1 tvg-id="danang1" group-title="📺[ĐỊA PHƯƠNG]" tvg-logo="https://i.imgur.com/6OWQ8lU.png",TH ĐÀ NẴNG 1
+https://live.fptplay53.net/epzsd1/danang1_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 tvg-id="danang2" group-title="📺[ĐỊA PHƯƠNG]" tvg-logo="https://i.imgur.com/hkzIqEV.png",TH ĐÀ NẴNG 2
+https://live.fptplay53.net/epzsd1/danang2_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 tvg-id="dongnai1" group-title="📺[ĐỊA PHƯƠNG]" tvg-logo="https://i.imgur.com/blOZQPI.png",TH ĐỒNG NAI 1
+https://live.fptplay53.net/epzsd1/dongnai1_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 tvg-id="dongnai2" group-title="📺[ĐỊA PHƯƠNG]" tvg-logo="https://i.imgur.com/tIvmaaX.png",TH ĐỒNG NAI 2
+https://live.fptplay53.net/epzsd1/dongnai2_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 tvg-id="anvienhd" group-title="📺[ĐỊA PHƯƠNG]" tvg-logo="https://i.imgur.com/jeunb3Y.png",TH BÌNH DƯƠNG 9
+https://live.fptplay53.net/fnxsd1/btv9_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-id="vinhlong1hd" group-title="📺[ĐỊA PHƯƠNG]" tvg-logo="https://i.imgur.com/gvPtTR2.png",TH VĨNH LONG 1
 https://live.fptplay53.net/epzch2/vinhlong1_abr.smil/chunklist_b4200000.m3u8
 #EXTINF:-1 tvg-id="vinhlong2hd" group-title="📺[ĐỊA PHƯƠNG]" tvg-logo="https://i.imgur.com/wYadDFn.png",TH VĨNH LONG 2
@@ -73,36 +89,16 @@ https://live.fptplay53.net/epzch2/vinhlong3_abr.smil/chunklist_b4200000.m3u8
 https://live.fptplay53.net/epzhd2/vinhlong4hd_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 tvg-id="vinhlong5hd" group-title="📺[ĐỊA PHƯƠNG]" tvg-logo="https://vnepg.site/logos/175.png",TH VĨNH LONG 5
 https://freem3u.xyz/api/live/play.m3u8?vid=91
-#EXTINF:-1 tvg-id="vungtau" group-title="📺[ĐỊA PHƯƠNG]" tvg-logo="https://i.imgur.com/KX2RMXR.png",TH BÀ RỊA-VŨNG TÀU
-https://live.fptplay53.net/epzsd1/bariavungtau_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 tvg-id="binhduong1" group-title="📺[ĐỊA PHƯƠNG]" tvg-logo="https://i.imgur.com/YPQCtHY.png",TH BÌNH DƯƠNG 1
-https://live.fptplay53.net/epzhd2/btv1_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 tvg-id="binhduong2" group-title="📺[ĐỊA PHƯƠNG]" tvg-logo="https://i.imgur.com/LpV0d3Q.png",TH BÌNH DƯƠNG 2
-https://live.fptplay53.net/epzhd2/btv2_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 tvg-id="anvienhd" group-title="📺[ĐỊA PHƯƠNG]" tvg-logo="https://i.imgur.com/jeunb3Y.png",TH BÌNH DƯƠNG 9
-https://live.fptplay53.net/fnxsd1/btv9_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-id="cantho1" group-title="📺[ĐỊA PHƯƠNG]" tvg-logo="https://vnepg.site/logos/86.png",TH CẦN THƠ 1
 https://live.fptplay53.net/epzsd1/cantho_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-id="cantho2" group-title="📺[ĐỊA PHƯƠNG]" tvg-logo="https://vnepg.site/logos/87.png",TH CẦN THƠ 2
 https://toiyeuvietnam.dpdns.org/CoBan/hau-giang/TuyetDoiKhongKinhDoanh.m3u8
 #EXTINF:-1 tvg-id="cantho3" group-title="📺[ĐỊA PHƯƠNG]" tvg-logo="https://vnepg.site/logos/88.png",TH CẦN THƠ 3
 https://live.fptplay53.net/epzsd1/cantho03_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 tvg-id="danang1" group-title="📺[ĐỊA PHƯƠNG]" tvg-logo="https://i.imgur.com/6OWQ8lU.png",TH ĐÀ NẴNG 1
-https://live.fptplay53.net/epzsd1/danang1_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 tvg-id="danang2" group-title="📺[ĐỊA PHƯƠNG]" tvg-logo="https://i.imgur.com/hkzIqEV.png",TH ĐÀ NẴNG 2
-https://live.fptplay53.net/epzsd1/danang2_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 tvg-id="dongnai1" group-title="📺[ĐỊA PHƯƠNG]" tvg-logo="https://i.imgur.com/blOZQPI.png",TH ĐỒNG NAI 1
-https://live.fptplay53.net/epzsd1/dongnai1_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 tvg-id="dongnai2" group-title="📺[ĐỊA PHƯƠNG]" tvg-logo="https://i.imgur.com/tIvmaaX.png",TH ĐỒNG NAI 2
-https://live.fptplay53.net/epzsd1/dongnai2_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-id="dongthap1" group-title="📺[ĐỊA PHƯƠNG]" tvg-logo="https://i.imgur.com/UfOw13y.png",TH ĐỒNG THÁP 1
 https://live.fptplay53.net/epzsd1/dongthap_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 tvg-id="dongthap2" group-title="📺[ĐỊA PHƯƠNG]" tvg-logo="https://i.imgur.com/WXebESa.png",TH ĐỒNG THÁP 2
 https://live.fptplay53.net/epzsd1/dongthaphd_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:-1 tvg-id="hanoi1" group-title="📺[ĐỊA PHƯƠNG]" tvg-logo="https://i.imgur.com/mwCTDMj.png",TH HÀ NỘI 1
-https://live.fptplay53.net/fnxhd2/hanoitv1_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:-1 tvg-id="hanoi2" group-title="📺[ĐỊA PHƯƠNG]" tvg-logo="https://i.imgur.com/HyiwlZV.png",TH HÀ NỘI 2
-https://live.fptplay53.net/fnxch2/hntv2_abr.smil/chunklist_b6000000.m3u8
 #EXTINF:-1 tvg-id="tayninh1" group-title="📺[ĐỊA PHƯƠNG]" tvg-logo="https://vnepg.site/logos/124.png",TH TÂY NINH 1
 https://cdn.la34.com.vn/live/2851dc2c9af68834814a89e61db0faee561/chunklist.m3u8
 #EXTINF:-1 tvg-id="tayninh2" group-title="📺[ĐỊA PHƯƠNG]" tvg-logo="https://vnepg.site/logos/125.png",TH TÂY NINH 2
@@ -134,6 +130,7 @@ https://cloud.sgchill.io.vn/tv/getlink/source/coban1/index.m3u8?id=186&token=202
 https://cloud.sgchill.io.vn/tv/getlink/source/coban1/index.m3u8?id=177&token=2025
 #EXTINF:-1 tvg-id="onvfamily" group-title="💚[VTVCAB]" tvg-logo="https://i.imgur.com/R82M53x.png",ON VFAMILY
 https://cloud.sgchill.io.vn/tv/getlink/source/coban1/index.m3u8?id=187&token=2025
+
 
 
 
