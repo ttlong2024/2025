@@ -50,6 +50,8 @@ https://live.fptplay53.net/fnxhd2/quocphongvnhd_vhls.smil/chunklist_b5000000.m3u
 https://live.fptplay53.net/epzhd2/film360_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 tvg-id="afnhd" group-title="🎥[INTHEBOX-FPT]" tvg-logo="https://i.imgur.com/KL9oaqc.png",AFN
 https://live.fptplay53.net/fnxhd2/afchd_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF:-1 group-title="🎥[INTHEBOX-FPT]",MƯA ĐỎ
+https://vip.opstream90.com/20251118/17952_7bf57028/3000k/hls/mixed.m3u8
 
 #EXTINF:-1 tvg-id="boxmovie1" group-title="🎥[INTHEBOX-CLICK]" tvg-logo="https://i.imgur.com/sKmE3dF.png",BOX MOVIE 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
@@ -72,4 +74,5 @@ https://toiyeuvietnam.dpdns.org/CoBan/woman-hd/TuyetDoiKhongKinhDoanh.m3u8
 #EXTINF:-1 tvg-id="man" group-title="🎥[INTHEBOX-CLICK]" tvg-logo="https://i.imgur.com/RyBacJy.png",MAN
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://toiyeuvietnam.dpdns.org/CoBan/man/TuyetDoiKhongKinhDoanh.m3u8
+
 
