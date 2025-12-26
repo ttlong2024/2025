@@ -52,6 +52,8 @@ https://live.fptplay53.net/epzhd2/film360_vhls.smil/chunklist_b5000000.m3u8
 https://live.fptplay53.net/fnxhd2/afchd_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 group-title="🎥[INTHEBOX-FPT]" tvg-logo="https://raw.githubusercontent.com/ttlong2024/2025-2026/refs/heads/main/OTHERS/MUADO.png",MƯA ĐỎ
 https://vip.opstream90.com/20251118/17952_7bf57028/3000k/hls/mixed.m3u8
+#EXTINF:-1 group-title="🎥[INTHEBOX-FPT]" tvg-logo="https://haniff.vn/wp-content/uploads/2024/10/Lam-giau-voi-ma-2.jpg",Làm Giàu Với Ma
+https://s4.phim1280.tv/20250323/KmdatGKe/3000kb/hls/index.m3u8
 
 #EXTINF:-1 tvg-id="boxmovie1" group-title="🎥[INTHEBOX-CLICK]" tvg-logo="https://i.imgur.com/sKmE3dF.png",BOX MOVIE 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
@@ -74,6 +76,7 @@ https://toiyeuvietnam.dpdns.org/CoBan/woman-hd/TuyetDoiKhongKinhDoanh.m3u8
 #EXTINF:-1 tvg-id="man" group-title="🎥[INTHEBOX-CLICK]" tvg-logo="https://i.imgur.com/RyBacJy.png",MAN
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://toiyeuvietnam.dpdns.org/CoBan/man/TuyetDoiKhongKinhDoanh.m3u8
+
 
 
 
