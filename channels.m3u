@@ -55,6 +55,16 @@ https://vip.opstream90.com/20251118/17952_7bf57028/3000k/hls/mixed.m3u8
 #EXTINF:-1 group-title="🎥[INTHEBOX-FPT]" tvg-logo="https://haniff.vn/wp-content/uploads/2024/10/Lam-giau-voi-ma-2.jpg",Làm Giàu Với Ma
 https://s4.phim1280.tv/20250323/KmdatGKe/3000kb/hls/index.m3u8
 
+#EXTINF:-1 tvg-id="axnhd" group-title="🎥[QUỐC TẾ]" tvg-logo="https://i.imgur.com/Rwm7Lod.png",AXN
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+http://akasaijr.myftp.org:21585/axn/index.m3u8
+#EXTINF:-1 tvg-id="hbohd" group-title="🎥[QUỐC TẾ]" tvg-logo="https://i.imgur.com/qPXF25a.png",HBO
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+http://akasaijr.myftp.org:21585/hbo/index.m3u8
+#EXTINF:-1 tvg-id="discoveryhd" group-title="🎥[QUỐC TẾ]" tvg-logo="https://i.imgur.com/BzZY4kl.png",DISCOVERY
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+http://akasaijr.myftp.org:21585/discovery/index.m3u8
+
 #EXTINF:-1 tvg-id="boxmovie1" group-title="🎥[INTHEBOX-CLICK]" tvg-logo="https://i.imgur.com/sKmE3dF.png",BOX MOVIE 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://toiyeuvietnam.dpdns.org/CoBan/box-movie-1-hd/TuyetDoiKhongKinhDoanh.m3u8
@@ -76,6 +86,7 @@ https://toiyeuvietnam.dpdns.org/CoBan/woman-hd/TuyetDoiKhongKinhDoanh.m3u8
 #EXTINF:-1 tvg-id="man" group-title="🎥[INTHEBOX-CLICK]" tvg-logo="https://i.imgur.com/RyBacJy.png",MAN
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://toiyeuvietnam.dpdns.org/CoBan/man/TuyetDoiKhongKinhDoanh.m3u8
+
 
 
 
