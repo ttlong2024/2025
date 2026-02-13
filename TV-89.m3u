@@ -92,7 +92,7 @@ https://toiyeuvietnam.dpdns.org/TuyetDoiKhongKinhDoanh/tra-vinh/KenhCoBan.m3u8
 #EXTINF:-1 tvg-id="cantho1" group-title="📺[ĐỊA PHƯƠNG]" tvg-logo="https://vnepg.site/logos/86.png",TH CẦN THƠ 1
 https://live.fptplay53.net/epzsd1/cantho_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-id="cantho2" group-title="📺[ĐỊA PHƯƠNG]" tvg-logo="https://vnepg.site/logos/87.png",TH CẦN THƠ 2
-https://toiyeuvietnam.dpdns.org/CoBan/hau-giang/TuyetDoiKhongKinhDoanh.m3u8
+https://toiyeuvietnam.dpdns.org/TuyetDoiKhongKinhDoanh/hau-giang/KenhCoBan.m3u8
 #EXTINF:-1 tvg-id="cantho3" group-title="📺[ĐỊA PHƯƠNG]" tvg-logo="https://vnepg.site/logos/88.png",TH CẦN THƠ 3
 https://live.fptplay53.net/epzsd1/cantho03_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-id="dongthap1" group-title="📺[ĐỊA PHƯƠNG]" tvg-logo="https://i.imgur.com/UfOw13y.png",TH ĐỒNG THÁP 1
@@ -132,6 +132,7 @@ https://toiyeuvietnam.dpdns.org/TuyetDoiKhongKinhDoanh/vtvcab19-vie-dramas/KenhC
 https://toiyeuvietnam.dpdns.org/TuyetDoiKhongKinhDoanh/vtvcab-20-v-family-hd/KenhCoBan.m3u8
 #EXTINF:-1 tvg-id="onkids" group-title="💚[VTVCAB]" tvg-logo="https://i.imgur.com/z8KzUAd.png",ON KIDS
 https://toiyeuvietnam.dpdns.org/TuyetDoiKhongKinhDoanh/vtvcab-21-cartoon-kids-hd/KenhCoBan.m3u8
+
 
 
 
