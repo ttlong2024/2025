@@ -24,7 +24,7 @@ https://live.fptplay53.net/fnxhd1/vtv7hd_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 tvg-id="vtv8hd" group-title="💕[VTV]" tvg-logo="https://i.imgur.com/lpcltL9.png",VTV8
 https://live.fptplay53.net/epzhd1/vtv8hd_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 tvg-id="vtv9hd" group-title="💕[VTV]" tvg-logo="https://i.imgur.com/Ex1VkGQ.png",VTV9
-https://live.fptplay53.net/fnxhd1/vtv9_vhls.smil/chunklist_b5000000.m3u8
+https://live.fptplay53.net/epzch2/vtv9hd_abr.smil/chunklist_b4200000.m3u8
 
 #EXTINF:-1 tvg-id="htv1" group-title="💛[HTV]" tvg-logo="https://i.imgur.com/Z8Y74ih.png",HTV1
 https://live.fptplay53.net/epzhd1/htv1_vhls.smil/chunklist_b2500000.m3u8
@@ -67,6 +67,7 @@ https://toiyeuvietnam.dpdns.org/TuyetDoiKhongKinhDoanh/dr-fit-hd/KenhCoBan.m3u8
 https://toiyeuvietnam.dpdns.org/TuyetDoiKhongKinhDoanh/woman-hd/KenhCoBan.m3u8
 #EXTINF:-1 tvg-id="man" group-title="🎥[INTHEBOX-CLICK]" tvg-logo="https://i.imgur.com/RyBacJy.png",MAN
 https://toiyeuvietnam.dpdns.org/TuyetDoiKhongKinhDoanh/man/KenhCoBan.m3u8
+
 
 
 
