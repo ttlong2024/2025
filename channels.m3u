@@ -34,7 +34,8 @@ https://live.fptplay53.net/epzhd1/htv2hd_vhls.smil/chunklist_b5000000.m3u8
 https://live.fptplay53.net/epzhd1/htv3_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 tvg-id="htvkey" group-title="💛[HTV]" tvg-logo="https://i.imgur.com/13jHqoG.png",HTV4
 https://live.fptplay53.net/epzhd1/htv4_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:-1 tvg-id="htv5" group-title="💛[HTV]" tvg-logo="https://vnepg.site/logos/85.png",HTV5
+#EXTINF:-1 tvg-id="htv5" group-title="💛[HTV]" tvg-logo="https://raw.githubusercontent.com/ttlong2024/2025-2026/refs/heads/main/HTV/HTV5.png
+",HTV5
 https://live.fptplay53.net/fnxsd1/btv9_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-id="htv7hd" group-title="💛[HTV]" tvg-logo="https://i.imgur.com/7Jv4GVA.png",HTV7
 https://live.fptplay53.net/epzhd1/htv7hd_vhls.smil/chunklist_b5000000.m3u8
@@ -66,6 +67,7 @@ https://live.fptplay53.net/fnxhd2/arirang_hls.smil/chunklist.m3u8
 https://live.fptplay53.net/epzhd2/kbs_hls.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="nhkworld" group-title="🎥[INTHEBOX-FPT]" tvg-logo="https://i.imgur.com/Et3vExm.png",NHK WORLD
 https://live.fptplay53.net/fnxhd2/nhkworld_vhls.smil/chunklist_b5000000.m3u8 
+
 
 
 
