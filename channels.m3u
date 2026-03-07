@@ -9,7 +9,7 @@ https://live.fptplay53.net/fnxch2/vtv2hd_abr.smil/chunklist_b4200000.m3u8
 https://live.fptplay53.net/fnxch2/vtv3hd_abr.smil/chunklist_b4200000.m3u8
 #EXTINF:-1 tvg-id="vtv4hd" group-title="💕[VTV]" tvg-logo="https://i.imgur.com/9zVTtsA.png",VTV4
 https://live.fptplay53.net/fnxch2/vtv4hd_abr.smil/chunklist_b4200000.m3u8
-#EXTINF:-1 tvg-id="vietnamtoday" group-title="💕[VTV]" tvg-logo="https://vnepg.site/logos/176.png",VIETNAM TODAY
+#EXTINF:-1 tvg-id="vietnamtoday" group-title="💕[VTV]" tvg-logo="https://raw.githubusercontent.com/ttlong2024/2025-2026/refs/heads/main/VTV/VIETNAMTODAY.png",VIETNAM TODAY
 https://live.fptplay53.net/fnxhd1/vntoday_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 tvg-id="vtv5hd" group-title="💕[VTV]" tvg-logo="https://i.imgur.com/7qPKNFU.png",VTV5
 https://live.fptplay53.net/epzhd1/vtv5hd_vhls.smil/chunklist_b5000000.m3u8
@@ -66,6 +66,7 @@ https://live.fptplay53.net/fnxhd2/arirang_hls.smil/chunklist.m3u8
 https://live.fptplay53.net/epzhd2/kbs_hls.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="nhkworld" group-title="🎥[INTHEBOX-FPT]" tvg-logo="https://i.imgur.com/Et3vExm.png",NHK WORLD
 https://live.fptplay53.net/fnxhd2/nhkworld_vhls.smil/chunklist_b5000000.m3u8 
+
 
 
 
