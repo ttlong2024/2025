@@ -49,7 +49,8 @@ https://live.fptplay53.net/fnxhd2/anninhtv_vhls.smil/chunklist_b5000000.m3u8
 https://live.fptplay53.net/fnxhd2/quocphongvnhd_vhls.smil/chunklist_b5000000.m3u8
 
 #EXTINF:-1 tvg-id="sctv2hd" group-title="🎥[INTHEBOX-FPT]" tvg-logo="https://i.imgur.com/sURj0j4.png",SCTV2
-https://toiyeuvietnam.dpdns.org/TuyetDoiKhongKinhDoanh/sctv2-today-tv/KenhCoBan.m3u8
+#https://toiyeuvietnam.dpdns.org/TuyetDoiKhongKinhDoanh/sctv2-today-tv/KenhCoBan.m3u8
+https://liveh12.vtvprime.vn/hls/SCTV2/03.m3u8
 #EXTINF:-1 tvg-id="sctv6hd" group-title="🎥[INTHEBOX-FPT]" tvg-logo="https://i.imgur.com/2oOVS42.png",SCTV6
 https://live.fptplay53.net/epzhd2/film360_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 tvg-id="davinci" group-title="🎥[INTHEBOX-FPT]" tvg-logo="https://i.imgur.com/t9fzARL.png",DA VINCI
@@ -67,25 +68,25 @@ https://live.fptplay53.net/epzhd2/kbs_hls.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="nhkworld" group-title="🎥[INTHEBOX-FPT]" tvg-logo="https://i.imgur.com/Et3vExm.png",NHK WORLD
 https://live.fptplay53.net/fnxhd2/nhkworld_vhls.smil/chunklist_b5000000.m3u8 
 
-#EXTINF:-1 tvg-id="onsports" group-title="⚽[VIETANH]" tvg-logo="https://i.imgur.com/FF2ztVF.png",ON SPORTS HD
+#EXTINF:-1 tvg-id="onsports" group-title="⚽[V.ANH]" tvg-logo="https://i.imgur.com/FF2ztVF.png",ON SPORTS HD
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=dcda1c0511c347f8b89c1821600426ac:dbc1d4d9244f8e7d01d999d4d9f53855
 https://livevlisctcdnw.seenow.vn/livesnv2/THETHAO_HD/manifest.mpd
-#EXTINF:-1 tvg-id="onsportsplus" group-title="⚽[VIETANH]" tvg-logo="https://i.imgur.com/1nieg0Y.png",ON SPORTS+
+#EXTINF:-1 tvg-id="onsportsplus" group-title="⚽[V.ANH]" tvg-logo="https://i.imgur.com/1nieg0Y.png",ON SPORTS+
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=4e619c5b54494762b131f65fc34a885b:676d9f5a28d409d7d601514baa147c9d
 https://livevlisctcdnw.seenow.vn/livesnv2/HAY_TV/manifest.mpd
-#EXTINF:-1 tvg-id="onfootball" group-title="⚽[VIETANH]" tvg-logo="https://i.imgur.com/IpvzBUX.png",ON FOOTBALL HD
+#EXTINF:-1 tvg-id="onfootball" group-title="⚽[V.ANH]" tvg-logo="https://i.imgur.com/IpvzBUX.png",ON FOOTBALL HD
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=f69bf028397e4ecfafce84abb7c5fe2b:25028aad0e2003b2785cf5196a4e2fa1
 https://livevlisctcdnw.seenow.vn/mean/BONGDA_HD/manifest.mpd
-#EXTINF:-1 tvg-id="onsportsnews" group-title="⚽[VIETANH]" tvg-logo="https://i.imgur.com/Zxe4Xbd.png",ON SPORTS NEWS
+#EXTINF:-1 tvg-id="onsportsnews" group-title="⚽[V.ANH]" tvg-logo="https://i.imgur.com/Zxe4Xbd.png",ON SPORTS NEWS
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -151,19 +152,19 @@ https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/dscasia.smil/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_key=086d09a40bff3a00aa6dd4dbaf9c13b2:34f1908cfe2e05ee060046d40f14aec9
 https://s7771.cdn.mytvnet.vn/pkg20/live_dzones/wtv.smil/manifest.mpd
 
-#EXTINF:-1 tvg-id="boxmovie1" group-title="🎥[INTHEBOX-VIETANH]" tvg-logo="https://i.imgur.com/sKmE3dF.png",BOX MOVIE 1
+#EXTINF:-1 tvg-id="boxmovie1" group-title="🎥[INTHEBOX-VA]" tvg-logo="https://i.imgur.com/sKmE3dF.png",BOX MOVIE 1
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=a7c942778e874d43be92b8d0a0cd11b4:6d54358306571658ffdb952c6560688b
 https://livevlisctcdnw.seenow.vn/mean/BM1/manifest.mpd
-#EXTINF:-1 tvg-id="hollywoodclassics" group-title="🎥[INTHEBOX-VIETANH]" tvg-logo="https://i.imgur.com/KCWFHF2.png",HOLLYWOOD CLASSICS
+#EXTINF:-1 tvg-id="hollywoodclassics" group-title="🎥[INTHEBOX-VA]" tvg-logo="https://i.imgur.com/KCWFHF2.png",HOLLYWOOD CLASSICS
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=a7c942778e874d43be92b8d0a0cd11b4:6d54358306571658ffdb952c6560688b
 https://livevlisctcdnw.seenow.vn/mean/HC/manifest.mpd
-#EXTINF:-1 tvg-id="boxhits" group-title="🎥[INTHEBOX-VIETANH]" tvg-logo="https://i.imgur.com/6fTfUnz.png",BOX HITS
+#EXTINF:-1 tvg-id="boxhits" group-title="🎥[INTHEBOX-VA]" tvg-logo="https://i.imgur.com/6fTfUnz.png",BOX HITS
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
