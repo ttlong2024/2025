@@ -1,5 +1,4 @@
 #EXTM3U url-tvg="https://lichphatsong.site/schedule/epg.xml"
-#EXTM3U url-tvg="https://vnepg.site/epg.xml"
 
 #EXTINF:-1 tvg-id="vtv1hd" group-title="💕[VTV]" tvg-logo="https://raw.githubusercontent.com/ttlong2024/ttl/refs/heads/main/VTV1.png",VTV1
 https://live.fptplay53.net/fnxch2/vtv1hd_abr.smil/chunklist_b4200000.m3u8
@@ -51,10 +50,9 @@ https://live.fptplay53.net/fnxhd2/quocphongvnhd_vhls.smil/chunklist_b5000000.m3u
 https://live.fptplay53.net/epzhd2/film360_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 tvg-id="sctv2hd" group-title="💚[THIẾT YẾU]" tvg-logo="https://raw.githubusercontent.com/ttlong2024/ttl/refs/heads/main/SCTV2.png",SCTV2
 https://liveh12.vtvprime.vn/hls/SCTV2/03.m3u8
-
-#EXTINF:-1 tvg-id="sctvhdpth" group-title="🎥[INTHEBOX-FPT]" tvg-logo="https://i.imgur.com/CyFnZs1.png",SCTV PHIM
+#EXTINF:-1 tvg-id="sctvhdpth" group-title="💚[THIẾT YẾU]" tvg-logo="https://i.imgur.com/CyFnZs1.png",SCTV PHIM
 https://liveh12.vtvprime.vn/hls/SCTVPHIM/03.m3u8
-#EXTINF:-1 tvg-id="afnhd" group-title="🎥[INTHEBOX-FPT]" tvg-logo="https://i.imgur.com/KL9oaqc.png",AFN
+#EXTINF:-1 tvg-id="afnhd" group-title="💚[THIẾT YẾU]" tvg-logo="https://i.imgur.com/KL9oaqc.png",AFN
 https://live.fptplay53.net/fnxhd2/afchd_vhls.smil/chunklist_b5000000.m3u8
 
 #EXTINF:-1 tvg-id="onsports" group-title="⚽[SPORTS]" tvg-logo="https://i.imgur.com/FF2ztVF.png",ON SPORTS HD
