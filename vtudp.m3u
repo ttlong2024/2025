@@ -1,4 +1,4 @@
-﻿#EXTM3U url-tvg="http://lichphatsong.xyz/schedule/epg.xml"
+﻿#EXTM3U url-tvg="http://lichphatsong.site/schedule/epg.xml"
 #------------------------VTV - VT------------------------#
 #EXTINF:0 tvg-id="vtv1hd" group-title="VTV - VT" tvg-logo="https://i.imgur.com/nfkmvAY.png",VTV - VT1 HD
 http://iptv.hainghia.net:6789/rtp/239.12.251.207:5000
